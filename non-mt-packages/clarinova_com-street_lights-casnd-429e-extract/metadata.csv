@@ -1,0 +1,31 @@
+Declare,metatab-latest
+Title,San Diego Street Lamp Locations
+Description,Maps and geo data for the locations of San Diego streetlamps
+Identifier,1de32502-a701-446d-9902-2edc1942091f
+Name,sandiegodata.org-street_lamps-1
+Dataset,street_lamps
+Origin,sandiegodata.org
+Time,
+Space,
+Grain,
+Variant,
+Version,1
+Created,2019-05-15T20:16:08
+Modified,2019-05-15T21:58:22
+Giturl,https://github.com/metatab-packages/sdrdl-data-repo.git
+""
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org
+""
+Section,Documentation,Title,Description,
+Note,This package was automatically created from a CKAN repository,,,
+Documentation,file:README.md,README,,
+""
+Section,References,Name,Description,
+""
+Section,Resources,Name,Description,
+Datafile,https://s3.amazonaws.com/s3.sandiegodata.org/repo/clarinova.com/street_lights-casnd-429e-r1/sandiego-light-distance.tiff,sandiego-light-distance.tiff,"A GeoTIFF map of distances from a street lamp, in centimeters. The map is top coded, with the highest value being 12,000, or 120m.",
+Datafile,https://s3.amazonaws.com/s3.sandiegodata.org/repo/clarinova.com/street_lights-casnd-429e-r1/street_lights.csv,street_lights.csv,Streetlight locations in CSV format.,
+Datafile,https://s3.amazonaws.com/s3.sandiegodata.org/repo/clarinova.com/street_lights-casnd-429e-r1/styles.zip,styles.zip,"QGIS colormap, spefically tuned for the GeoTIFF file",
+""
+Section,Schema,DataType,AltName,Description

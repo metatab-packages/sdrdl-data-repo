@@ -1,0 +1,30 @@
+Declare,metatab-latest
+Title,3-4-50 Deaths 2000-2011
+Description,"Deaths in San Diego country, for the period from 2000 to 2011, due to the causes"
+Description,of death that collectively kill more than 50% of the population.
+Identifier,c1cbc8cb-efdf-4cdd-b4b9-fb4137dac747
+Name,sandiegocounty.gov-deaths-1
+Dataset,deaths
+Origin,sandiegocounty.gov
+Time,
+Space,
+Grain,
+Variant,
+Version,1
+Created,2019-05-15T20:16:07
+Modified,2019-05-15T21:58:21
+Giturl,https://github.com/metatab-packages/sdrdl-data-repo.git
+""
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org
+""
+Section,Documentation,Title,Description,
+Note,This package was automatically created from a CKAN repository,,,
+Documentation,file:README.md,README,,
+""
+Section,References,Name,Description,
+""
+Section,Resources,Name,Description,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/sdcounty.ca.gov/Deaths-3-4-50-2000-2011.csv,3-4-50-deaths-2000-2011,"Deaths in San Diego country, for the period from 2000 to 2011, due to the causes of death that collectively kill more than 50% of the population.",
+""
+Section,Schema,DataType,AltName,Description

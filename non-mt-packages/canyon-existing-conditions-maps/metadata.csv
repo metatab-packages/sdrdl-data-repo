@@ -1,0 +1,38 @@
+Declare,metatab-latest
+Title,Canyon Existing Conditions Maps
+Description,Geographic packages for conditions of canyons in San Diego county
+Identifier,28c76c98-6e18-4f59-8717-d843a869c6dd
+Name,sdcanyonlands.org-canyon_conditions-1
+Dataset,canyon_conditions
+Origin,sdcanyonlands.org
+Time,
+Space,
+Grain,
+Variant,
+Version,1
+Tag,environment
+Created,2019-05-15T20:16:07
+Modified,2019-05-15T21:58:21
+Giturl,https://github.com/metatab-packages/sdrdl-data-repo.git
+""
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org
+""
+Section,Documentation,Title,Description,
+Note,This package was automatically created from a CKAN repository,,,
+Documentation,file:README.md,README,,
+""
+Section,References,Name,Description,
+""
+Section,Resources,Name,Description,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/sdcanyonlands.org/47thSt_GIS.gdb.zip,47th-street-canyon,47th Street Canyon,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/sdcanyonlands.org/Bell_GIS.gdb.zip,bell-canyon,Bell Canyon,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/sdcanyonlands.org/ChollasCH_GIS.gdb.zip,chollas-creek,Chollas Creek,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/sdcanyonlands.org/Hollywood_GIS.gdb.zip,hollywood-canyon,Hollywood Canyon,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/sdcanyonlands.org/Juniper_GIS.gdb.zip,juniper-canyon,Juniper Canyon,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/sdcanyonlands.org/Manzanita_GIS.gdb.zip,manzanita-canyon,Manzanita Canyon,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/sdcanyonlands.org/Ruffin_GIS.gdb.zip,ruffin-canyon,Ruffin Canyon,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/sdcanyonlands.org/Shepherd_GIS.gdb.zip,shepherd-canyon,Shepherd Canyon,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/sdcanyonlands.org/Swan_GIS.gdb.zip,swan-canyon,Swan Canyon,
+""
+Section,Schema,DataType,AltName,Description

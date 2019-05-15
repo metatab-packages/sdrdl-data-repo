@@ -1,0 +1,30 @@
+Declare,metatab-latest
+Title,Trolley Ridership
+Description,Trolley Ridership for Sept 2013
+Identifier,4506ba8a-525b-49ce-8bd8-666195479b5c
+Name,sandiego.gov-trolley_ridership-1
+Dataset,trolley_ridership
+Origin,sandiego.gov
+Time,
+Space,
+Grain,
+Variant,
+Version,1
+Tag,transportation
+Created,2019-05-15T20:16:09
+Modified,2019-05-15T21:58:22
+Giturl,https://github.com/metatab-packages/sdrdl-data-repo.git
+""
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org
+""
+Section,Documentation,Title,Description,
+Note,This package was automatically created from a CKAN repository,,,
+Documentation,file:README.md,README,,
+""
+Section,References,Name,Description,
+""
+Section,Resources,Name,Description,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/sdmts.com/FY2014%20Ridership_Trolley_Sept2013Booking.xlsx,trolley-ridership-sept-2013,Trolley Ridership Sept 2013,
+""
+Section,Schema,DataType,AltName,Description
