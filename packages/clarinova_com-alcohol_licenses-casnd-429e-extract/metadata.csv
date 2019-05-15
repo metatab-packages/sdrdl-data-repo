@@ -1,0 +1,30 @@
+Declare,metatab-latest
+Title,San Diego County Alcohol Permits
+Description,San Diego County Alcohol Permits
+Identifier,e7f3f060-d317-4866-bcdc-7f15714be708
+Name,e7f3f060-d317-4866-bcdc-7f15714be708
+Dataset,alcohol_permits
+Origin,sandiegodata.org
+Time,
+Space,
+Grain,
+Variant,
+Version,1
+Created,2019-05-15T20:16:07
+Modified,2019-05-15T20:16:07
+""
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org
+""
+Section,Documentation,Title,Description,
+Note,This package was automatically created from a CKAN repository,,,
+Documentation,file:README.md,README,,
+""
+Section,References,Name,Description,
+""
+Section,Resources,Name,Description,
+Datafile,https://s3.amazonaws.com/s3.sandiegodata.org/repo/clarinova.com/alcohol_licenses-casnd-429e-r1/abc-licenses-casnd.tiff,abc-licenses-casnd.tiff,A grayscale GeoTIFF heatmap.,
+Datafile,https://s3.amazonaws.com/s3.sandiegodata.org/repo/clarinova.com/alcohol_licenses-casnd-429e-r1/abc-licenses-casnd.shapefile.zip,abc-licenses-casnd.shapefile.zip,License points in shapefile format,
+Datafile,https://s3.amazonaws.com/s3.sandiegodata.org/repo/clarinova.com/alcohol_licenses-casnd-429e-r1/abs-licenses-casnd.csv,abs-licenses-casnd.csv,License points in CSV format.,
+""
+Section,Schema,DataType,AltName,Description

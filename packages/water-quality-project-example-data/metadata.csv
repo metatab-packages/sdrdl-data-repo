@@ -1,0 +1,31 @@
+Declare,metatab-latest
+Title,Water Quality Project Example Data
+Description,Collection of example data for the Water Project
+Identifier,5f6017e4-dbca-4e50-bd26-3facdb05265a
+Name,5f6017e4-dbca-4e50-bd26-3facdb05265a
+Dataset,water_project_data
+Origin,sandiegodata.org
+Time,
+Space,
+Grain,
+Variant,
+Version,1
+Created,2019-05-15T20:16:09
+Modified,2019-05-15T20:16:09
+""
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org
+""
+Section,Documentation,Title,Description,
+Note,This package was automatically created from a CKAN repository,,,
+Documentation,file:README.md,README,,
+""
+Section,References,Name,Description,
+""
+Section,Resources,Name,Description,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/noaa.gov/local-climate-san.csv,noaa-local-climate-data-for-san-airport,NOAA Local Climate Data For SAN Airport,
+Datafile,https://www1.ncdc.noaa.gov/pub/data/cdo/documentation/LCD_documentation.pdf,noaa-local-climate-data-documentation,NOAA Local Climate Data Documentation,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/ceden.waterboards.ca.gov/CEDEN%20TDML.csv,ceden-chollas-creek-tdml,See the [Program Overview Page](https://www.waterboards.ca.gov/sandiego/water_issues/programs/tmdls/bacteria.html) for more details.,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/woodplc.com/Regional%20Harbor%20Monitoring%20Program.zip,regional-harbor-monitoring-report-and-data,Analysis of toxicity and acquitic life survival in San Diego harbor,
+""
+Section,Schema,DataType,AltName,Description

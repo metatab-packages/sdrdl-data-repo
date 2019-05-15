@@ -1,0 +1,33 @@
+Declare,metatab-latest
+Title,"Raw San Diego County Crime Incidents 180 Day Files, 2013-"
+Description,Unprocessed crime incident files from SANDAG
+Identifier,add14714-41e6-4c65-b3be-ff93b39845fa
+Name,add14714-41e6-4c65-b3be-ff93b39845fa
+Dataset,crime
+Origin,sangis.org
+Time,2013e
+Space,
+Grain,
+Variant,raw
+Version,1
+Created,2019-05-15T20:16:08
+Modified,2019-05-15T20:16:08
+""
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org
+""
+Section,Documentation,Title,Description,
+Note,This package was automatically created from a CKAN repository,,,
+Documentation,file:README.md,README,,
+""
+Section,References,Name,Description,
+""
+Section,Resources,Name,Description,
+Datafile,http://ds.civicknowledge.org/sandag.org/arjis 180 days 20130822.zip,arjis-180-day-incidents-2013-08-22,"ARJIS 180 Day Incidents, 2013-08-22",
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/sandag.org/arjis%20180%20days%2020130916.zip,arjis-180-day-incidents-2013-09-16,"ARJIS 180 Day Incidents, 2013-09-16",
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/sandag.org/arjis%20180%20days%2020131208.zip,arjis-180-day-incidents-2013-12-08,"ARJIS 180 Day Incidents, 2013-12-08",
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/sandag.org/arjis%20180%20days%2020140121.zip,arjis-180-day-incidents-2014-01-21,"ARJIS 180 Day Incidents, 2014-01-21",
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/sandag.org/arjis%20180%20days%2020140417.zip,arjis-180-day-incidents-2014-04-17,"ARJIS 180 Day Incidents, 2014-04-17",
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/sandag.org/arjis%20180%20days%2020140720.zip,arjis-180-day-incidents-2014-07-20,"ARJIS 180 Day Incidents, 2014-07-20",
+""
+Section,Schema,DataType,AltName,Description

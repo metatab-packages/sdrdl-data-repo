@@ -1,0 +1,3 @@
+Counts of pedestrian in walkways, in San Diego, from August 2018 through March 2019, aggregated to 15 minutes.  Use the [CityIQ Assets and Locations dataset](https://data.sandiegodata.org/dataset/sandiego-gov-cityiq_objects) for the geographic positions of the walkways. 
+
+The original data also has values for counts in each direction of the walkway, and the speed. Unfortunately, the geographic data for the walkways --  lines -- are usually wrong, with many walkways being incorrectly long and poorly positioned. The result is that many of the speed values are much too high, so for this dataset the speed and direction values are dropped. 

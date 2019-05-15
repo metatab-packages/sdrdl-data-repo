@@ -1,0 +1,1 @@
+San Diego's [Capital Improvement Projects](http://www.sandiego.gov/cip/)  are unique construction projects that provide improvements or additions such as land, buildings, and infrastructure. 

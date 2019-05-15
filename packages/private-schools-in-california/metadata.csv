@@ -1,0 +1,41 @@
+Declare,metatab-latest
+Title,Private Schools in California
+Description,Private Schools in California
+Identifier,d02d5ef5-fdb0-487a-b480-8033390f0edf
+Name,d02d5ef5-fdb0-487a-b480-8033390f0edf
+Dataset,private_schools
+Origin,cde.ca.gov
+Time,
+Space,
+Grain,
+Variant,
+Version,1
+Created,2019-05-15T20:16:08
+Modified,2019-05-15T20:16:08
+""
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org
+""
+Section,Documentation,Title,Description,
+Note,This package was automatically created from a CKAN repository,,,
+Documentation,file:README.md,README,,
+""
+Section,References,Name,Description,
+""
+Section,Resources,Name,Description,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/cde.ca.gov/private_schools/privateschools1213.csv,california-private-schools-2012-2013,California Private Schools 2012-2013,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/cde.ca.gov/private_schools/California%20Private%20Schools%202011-2012.csv,california-private-schools-2011-2012,California Private Schools 2011-2012,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/cde.ca.gov/private_schools/California%20Private%20Schools%202010-2011.csv,california-private-schools-2010-2011,California Private Schools 2010-2011,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/cde.ca.gov/private_schools/California%20Private%20Schools%202009-2010.csv,california-private-schools-2009-2010,California Private Schools 2009-2010,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/cde.ca.gov/private_schools/California%20Private%20Schools%202008-2009.csv,california-private-schools-2008-2009,California Private Schools 2008-2009,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/cde.ca.gov/private_schools/California%20Private%20Schools%202007-2008.csv,california-private-schools-2007-2008,California Private Schools 2007-2008,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/cde.ca.gov/private_schools/California%20Private%20Schools%202006-2007.csv,california-private-schools-2006-2007,California Private Schools 2006-2007,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/cde.ca.gov/private_schools/California%20Private%20Schools%202005-2006.csv,california-private-schools-2005-2006,California Private Schools 2005-2006,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/cde.ca.gov/private_schools/California%20Private%20Schools%202004-2005.csv,california-private-schools-2004-2005,California Private Schools 2004-2005,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/cde.ca.gov/private_schools/California%20Private%20Schools%202003-2004.csv,california-private-schools-2003-2004,California Private Schools 2003-2004,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/cde.ca.gov/private_schools/California%20Private%20Schools%202002-2003.csv,california-private-schools-2002-2003,California Private Schools 2002-2003,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/cde.ca.gov/private_schools/California%20Private%20Schools%202001-2002.csv,california-private-schools-2001-2002,California Private Schools 2001-2002,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/cde.ca.gov/private_schools/California%20Private%20Schools%202000-2001.csv,california-private-schools-2000-2001,California Private Schools 2000-2001,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/cde.ca.gov/private_schools/California%20Private%20Schools%201999-2000.csv,california-private-schools-1999-2000,California Private Schools 1999-2000,
+""
+Section,Schema,DataType,AltName,Description

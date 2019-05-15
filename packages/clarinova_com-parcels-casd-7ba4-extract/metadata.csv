@@ -1,0 +1,28 @@
+Declare,metatab-latest
+Title,San Diego County Parcel Rasters
+Description,"Raster maps of Assessor's tax zone, from the azr_zone field of the original dataset, rasterized to 10m cells."
+Identifier,a4490099-f8c9-4c36-b300-6a7662a5fd62
+Name,a4490099-f8c9-4c36-b300-6a7662a5fd62
+Dataset,parcels
+Origin,sangis.org
+Time,
+Space,
+Grain,
+Variant,
+Version,1
+Created,2019-05-15T20:16:08
+Modified,2019-05-15T20:16:08
+""
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org
+""
+Section,Documentation,Title,Description,
+Note,This package was automatically created from a CKAN repository,,,
+Documentation,file:README.md,README,,
+""
+Section,References,Name,Description,
+""
+Section,Resources,Name,Description,
+Datafile,https://s3.amazonaws.com/s3.sandiegodata.org/repo/clarinova.com/parcels-casd-7ba4-r1/images.zip,images.zip,"Raster maps of Assessor's tax zone, from the azr_zone field of the original dataset, rasterized to 10m cells.",
+""
+Section,Schema,DataType,AltName,Description

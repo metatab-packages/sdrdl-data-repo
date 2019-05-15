@@ -1,0 +1,28 @@
+Declare,metatab-latest
+Title,CityIQ Pedestrians
+Description,"Walkway locations and pedestrian counts at 15 minute intervals"
+Identifier,32fa4683-1f93-43e6-af84-6faee86dabf9
+Name,32fa4683-1f93-43e6-af84-6faee86dabf9
+Dataset,pedestrians
+Origin,cityiq.io
+Time,
+Space,
+Grain,
+Variant,
+Version,1
+Created,2019-05-15T20:16:07
+Modified,2019-05-15T20:16:07
+""
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org
+""
+Section,Documentation,Title,Description,
+Note,This package was automatically created from a CKAN repository,,,
+Documentation,file:README.md,README,,
+""
+Section,References,Name,Description,
+""
+Section,Resources,Name,Description,
+Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/cityio.io/sd-ped-201808.csv.zip,pedestrians,Walkway locations and pedestrian counts at 15 minute intervals.,
+""
+Section,Schema,DataType,AltName,Description

@@ -1,0 +1,1 @@
+Existing conditions data used in Canyons Enhancement Planning. See  [the Canyons Enhancement Planning program page](http://www.sdcanyonlands.org/cep)  for more information. These files are in ESRI's FileGDB format, so they will require ArcMap to use 

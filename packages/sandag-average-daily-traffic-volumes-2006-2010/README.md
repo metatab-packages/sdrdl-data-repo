@@ -1,0 +1,3 @@
+Average daily traffic volumes for street segments in SANDAG area cities. This file was received from SANDAG for Public Records Act request 13-048 on 19 April 2013. 
+
+The file is likely to be difficult to use, since the volumes are reported per street segment, with no fields for city or lat/lon. The file may be useful for extracting a small number of segments by hand, but automated use will require programatic linking to SANGIS road network data. 

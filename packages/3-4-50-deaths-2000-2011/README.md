@@ -1,0 +1,1 @@
+This dataset is scraped from the [3-4-50 Data report for 2011](http://www.sdcounty.ca.gov/hhsa/programs/phs/documents/CHS-3-4-50DataReport_2013.pdf). The CSV file includes all of the tables in the PDF report. **Be cautious with this file; it was converted manually and may contain errors. **If you need data for critical analysis, request an official dataset from the county. 
