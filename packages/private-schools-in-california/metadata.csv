@@ -2,7 +2,7 @@ Declare,metatab-latest
 Title,Private Schools in California
 Description,Private Schools in California
 Identifier,d02d5ef5-fdb0-487a-b480-8033390f0edf
-Name,d02d5ef5-fdb0-487a-b480-8033390f0edf
+Name,cde.ca.gov-private_schools-1
 Dataset,private_schools
 Origin,cde.ca.gov
 Time,
@@ -11,7 +11,8 @@ Grain,
 Variant,
 Version,1
 Created,2019-05-15T20:16:08
-Modified,2019-05-15T20:16:08
+Modified,2019-05-15T21:26:32
+Giturl,https://github.com/metatab-packages/sdrdl-data-repo.git
 ""
 Section,Contacts,Email,Organization,Url
 Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org

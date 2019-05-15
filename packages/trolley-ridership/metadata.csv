@@ -1,8 +1,8 @@
 Declare,metatab-latest
 Title,Trolley Ridership
-Description, Trolley Ridership for Sept 2013
+Description,Trolley Ridership for Sept 2013
 Identifier,4506ba8a-525b-49ce-8bd8-666195479b5c
-Name,4506ba8a-525b-49ce-8bd8-666195479b5c
+Name,sandiego.gov-trolley_ridership-1
 Dataset,trolley_ridership
 Origin,sandiego.gov
 Time,
@@ -11,7 +11,8 @@ Grain,
 Variant,
 Version,1
 Created,2019-05-15T20:16:09
-Modified,2019-05-15T20:16:09
+Modified,2019-05-15T21:26:38
+Giturl,https://github.com/metatab-packages/sdrdl-data-repo.git
 ""
 Section,Contacts,Email,Organization,Url
 Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org

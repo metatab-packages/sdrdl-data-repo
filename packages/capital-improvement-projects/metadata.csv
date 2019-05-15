@@ -1,8 +1,8 @@
 Declare,metatab-latest
 Title,Capital Improvement Projects
-Description,"City of San Diego Capital Improvement Projects"
+Description,City of San Diego Capital Improvement Projects
 Identifier,ec5b680b-b87a-4971-8b0a-ed602446c644
-Name,ec5b680b-b87a-4971-8b0a-ed602446c644
+Name,sandiego.gov-cip-1
 Dataset,cip
 Origin,sandiego.gov
 Time,
@@ -11,7 +11,8 @@ Grain,
 Variant,
 Version,1
 Created,2019-05-15T20:16:07
-Modified,2019-05-15T20:16:07
+Modified,2019-05-15T21:26:07
+Giturl,https://github.com/metatab-packages/sdrdl-data-repo.git
 ""
 Section,Contacts,Email,Organization,Url
 Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org

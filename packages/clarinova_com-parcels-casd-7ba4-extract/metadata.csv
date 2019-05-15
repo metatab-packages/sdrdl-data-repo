@@ -1,8 +1,9 @@
 Declare,metatab-latest
 Title,San Diego County Parcel Rasters
-Description,"Raster maps of Assessor's tax zone, from the azr_zone field of the original dataset, rasterized to 10m cells."
+Description,"Raster maps of Assessor's tax zone, from the azr_zone field of the original"
+Description,"dataset, rasterized to 10m cells."
 Identifier,a4490099-f8c9-4c36-b300-6a7662a5fd62
-Name,a4490099-f8c9-4c36-b300-6a7662a5fd62
+Name,sangis.org-parcels-1
 Dataset,parcels
 Origin,sangis.org
 Time,
@@ -11,7 +12,8 @@ Grain,
 Variant,
 Version,1
 Created,2019-05-15T20:16:08
-Modified,2019-05-15T20:16:08
+Modified,2019-05-15T21:26:18
+Giturl,https://github.com/metatab-packages/sdrdl-data-repo.git
 ""
 Section,Contacts,Email,Organization,Url
 Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org

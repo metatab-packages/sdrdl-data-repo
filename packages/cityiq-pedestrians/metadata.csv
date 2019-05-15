@@ -1,8 +1,8 @@
 Declare,metatab-latest
 Title,CityIQ Pedestrians
-Description,"Walkway locations and pedestrian counts at 15 minute intervals"
+Description,Walkway locations and pedestrian counts at 15 minute intervals
 Identifier,32fa4683-1f93-43e6-af84-6faee86dabf9
-Name,32fa4683-1f93-43e6-af84-6faee86dabf9
+Name,cityiq.io-pedestrians-1
 Dataset,pedestrians
 Origin,cityiq.io
 Time,
@@ -11,7 +11,8 @@ Grain,
 Variant,
 Version,1
 Created,2019-05-15T20:16:07
-Modified,2019-05-15T20:16:07
+Modified,2019-05-15T21:26:14
+Giturl,https://github.com/metatab-packages/sdrdl-data-repo.git
 ""
 Section,Contacts,Email,Organization,Url
 Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org

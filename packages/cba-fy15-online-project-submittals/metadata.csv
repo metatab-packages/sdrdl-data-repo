@@ -1,8 +1,8 @@
 Declare,metatab-latest
 Title,CBA FY15 Online Project Submittals
-Description,"CBA FY15 Online Project Submittals"
+Description,CBA FY15 Online Project Submittals
 Identifier,13eea4be-2b99-41c8-b417-e25b0e1383e6
-Name,13eea4be-2b99-41c8-b417-e25b0e1383e6
+Name,sandiego.gov-cba-1
 Dataset,cba
 Origin,sandiego.gov
 Time,
@@ -11,7 +11,8 @@ Grain,
 Variant,
 Version,1
 Created,2019-05-15T20:16:07
-Modified,2019-05-15T20:16:07
+Modified,2019-05-15T21:26:09
+Giturl,https://github.com/metatab-packages/sdrdl-data-repo.git
 ""
 Section,Contacts,Email,Organization,Url
 Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org

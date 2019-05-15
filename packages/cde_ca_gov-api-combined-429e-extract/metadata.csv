@@ -1,8 +1,8 @@
 Declare,metatab-latest
 Title,"California Academic Performance Index, 1999 - 2012"
-Description,"API scores for California schools"
+Description,API scores for California schools
 Identifier,07f87359-7f4d-431f-a2c8-a98fd9089ada
-Name,07f87359-7f4d-431f-a2c8-a98fd9089ada
+Name,cde.ca.gov-api_scores-1
 Dataset,api_scores
 Origin,cde.ca.gov
 Time,
@@ -11,7 +11,8 @@ Grain,
 Variant,
 Version,1
 Created,2019-05-15T20:16:07
-Modified,2019-05-15T20:16:07
+Modified,2019-05-15T21:26:11
+Giturl,https://github.com/metatab-packages/sdrdl-data-repo.git
 ""
 Section,Contacts,Email,Organization,Url
 Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org

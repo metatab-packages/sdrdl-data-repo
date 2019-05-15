@@ -2,7 +2,7 @@ Declare,metatab-latest
 Title,"Raw San Diego County Crime Incidents, 2007- 2013"
 Description,Unprocessed crime incident files from SANDAG
 Identifier,bd224e28-e2cd-45e4-b2b3-dd9e67312854
-Name,bd224e28-e2cd-45e4-b2b3-dd9e67312854
+Name,sandag.org-crime-2017e2013-raw-1
 Dataset,crime
 Origin,sandag.org
 Time,2017e2013
@@ -11,7 +11,8 @@ Grain,
 Variant,raw
 Version,1
 Created,2019-05-15T20:16:08
-Modified,2019-05-15T20:16:08
+Modified,2019-05-15T21:26:22
+Giturl,https://github.com/metatab-packages/sdrdl-data-repo.git
 ""
 Section,Contacts,Email,Organization,Url
 Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org

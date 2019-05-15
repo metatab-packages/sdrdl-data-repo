@@ -1,8 +1,9 @@
 Declare,metatab-latest
 Title,San Diego Region Crime Incidents 2007 - 2013
-Description,"Processed crime incidents for San Diego county, 2007-2013. Of our crime datasets, this one is most useful for analysis."
+Description,"Processed crime incidents for San Diego county, 2007-2013. Of our crime"
+Description,"datasets, this one is most useful for analysis."
 Identifier,14b71c08-7cac-47b5-a01b-f349b8e84b5d
-Name,14b71c08-7cac-47b5-a01b-f349b8e84b5d
+Name,sandag.gov-crime-2007e2013-1
 Dataset,crime
 Origin,sandag.gov
 Time,2007e2013
@@ -11,7 +12,8 @@ Grain,
 Variant,
 Version,1
 Created,2019-05-15T20:16:07
-Modified,2019-05-15T20:16:07
+Modified,2019-05-15T21:26:28
+Giturl,https://github.com/metatab-packages/sdrdl-data-repo.git
 ""
 Section,Contacts,Email,Organization,Url
 Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org

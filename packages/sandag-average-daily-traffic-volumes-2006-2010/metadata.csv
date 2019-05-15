@@ -2,7 +2,7 @@ Declare,metatab-latest
 Title,SANDAG Average Daily Traffic Volumes 2006-2010
 Description,
 Identifier,d62975ae-ba9a-4a6c-bed6-16a6ee819dbe
-Name,d62975ae-ba9a-4a6c-bed6-16a6ee819dbe
+Name,sandag.org-avg_traffic-2006e2010-1
 Dataset,avg_traffic
 Origin,sandag.org
 Time,2006e2010
@@ -11,7 +11,8 @@ Grain,
 Variant,
 Version,1
 Created,2019-05-15T20:16:08
-Modified,2019-05-15T20:16:08
+Modified,2019-05-15T21:26:34
+Giturl,https://github.com/metatab-packages/sdrdl-data-repo.git
 ""
 Section,Contacts,Email,Organization,Url
 Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org
